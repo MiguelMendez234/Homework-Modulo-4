@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+.contenedor-tarjeta{
+  height: 450px;
+  width: 600px;
+  background-color: lightblue;
+}
+.contenedor-imagen{
+  width: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
