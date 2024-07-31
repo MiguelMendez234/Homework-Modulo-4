@@ -1,11 +1,9 @@
-import React from 'react'
 import './App.css'
 import Imagen from './Componentes/Imagen'
 import Estado from './Componentes/Estado'
 import Details from './Componentes/Details'
 
 function App() {
-
   return (
     <>
       <div className="App">
@@ -34,6 +32,8 @@ function App() {
         </div>
         
       </div>
+
+
     </>
   )
 }
