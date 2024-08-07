@@ -1,0 +1,10 @@
+.boton{
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: #add8e6;
+}
+.boton:hover{
+    background-color: greenyellow;
+}
