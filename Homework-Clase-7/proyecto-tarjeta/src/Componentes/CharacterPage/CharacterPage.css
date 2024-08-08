@@ -1,0 +1,19 @@
+.contenedor-character-page{
+    background-image: url( 'https://c.wallhere.com/photos/aa/0e/Rick_and_Morty_digital_art_tv_series_Portal_space-1799919.jpg!d' ) ;
+    background-position: center center;
+    background-size: contain;
+
+}
+
+.character-page{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.titulo-character-page{
+    color: white;
+}

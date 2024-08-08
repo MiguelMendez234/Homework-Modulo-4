@@ -1,0 +1,20 @@
+.tarjeta-episodios{
+        min-height: 200px;
+        width: 380px;
+        border: solid 20px #5dff18;
+        box-sizing: border-box;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 8px;
+        background-color: white;
+        color: black;
+        
+}
+.episodio{
+        background-color: #27272a ;
+        height: 55px;
+        width: 200px;
+        color: white;
+}
